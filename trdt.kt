@@ -1,1 +1,1 @@
-print("歡迎報名在職java班")
+print("歡迎報名在職java班!!")
